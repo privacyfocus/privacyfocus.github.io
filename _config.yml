@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+baseURL = "https://privacyfocus.github.io/"
+languageCode = "en-gb"
+title = "My New Hugo Site"
